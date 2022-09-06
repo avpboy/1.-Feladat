@@ -1,4 +1,4 @@
-# Somogyi Botond
+# [Somogyi Botond]
 
 
 ## Hogyan kezdj neki?
